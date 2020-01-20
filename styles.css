@@ -1,0 +1,31 @@
+p {
+    color: yellow;
+    font-size: 50px;
+    
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
+li{
+    color: snow;
+    font-size: 20px;
+}
+h2{
+    color: rgb(250, 251, 255);
+    font-size: 25px;
+}
+h1 {
+    font-size: 75px;
+}
+img{
+    width: 250px;
+    margin: auto;
+    display: block;
+    border: 20px dotted palevioletred;
+}
